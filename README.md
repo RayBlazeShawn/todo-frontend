@@ -21,7 +21,7 @@ Follow these steps to get your Vue.js frontend running locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/RayBlazeShawn/todo-frontend.git
 cd todo-frontend
 ```
 ### 2. Install Dependencies
